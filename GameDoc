@@ -1,0 +1,9 @@
+Cielom hry bude zakomponovat "triangle factory meme". 
+
+Hra bude typu nekonecneho levla, v ktorom sa bude stupnovat obtiaznost ciela.
+Hrac bude mat za ulohu davat pozor na pas/pasy na ktorych budu putovat objekty (mnohouholniky). 
+Pas bude tieto objekty dovazat do druheho stroja, ktory sa bude pri zlych vstupoch zasekavat / bude ho treba opravit.
+Hrac prehra a skore sa mu resetuje pri dlhom zaseknuti/preplneni (vymysliet na cas a na nieco dalsie).
+Level bude mat viacero fází pri ktorých sa bude meniť vzhľad/obtiažnosť. (Napr pribudne pás / daľšia mechanika)
+
+Hra bude 3D v low poly štýle, objekty na páse budú tiež 3d a budú mať fyziku.
